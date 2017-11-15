@@ -1,0 +1,9 @@
+
+text {
+  font: 15px sans-serif;
+}
+
+#span-currentVisualization {
+	font-size: 30px;
+	text-anchor: middle;
+}
