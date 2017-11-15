@@ -1,0 +1,15 @@
+.bar-chart rect {
+  fill: steelblue;
+}
+
+.resCountText, .communityText {
+  fill: black;
+  font: 10px sans-serif;
+  text-anchor: end;
+}
+
+.xAxisLabel, .yAxisLabel {
+	font: 18px sans-serif;
+}
+
+#ruler { visibility: hidden; white-space: nowrap; }
